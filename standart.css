@@ -1,0 +1,14 @@
+* {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+html {
+  font-size: 18px;
+}
+
+@media (min-width: 900px) {
+  body {
+    width: 900px;
+    margin: auto;
+  }
+}
